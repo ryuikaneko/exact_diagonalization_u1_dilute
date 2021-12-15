@@ -12,3 +12,5 @@
 
 - spin 1/2, 1d Heisenberg, julia [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/exact_diagonalization_u1_dilute/blob/master/spin_half/prog_julia_1d_heisenberg_20211206.ipynb)
 -->
+
+- (\# local Hilbert space) = (\# particles) (no truncation), 1d Bose-Hubbard (U/J=10), python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/exact_diagonalization_u1_dilute/blob/master/bose_hubbard_basis_ponomarev_no_truncation/colab_python_1d_bose_basis_ponomarev_20211215.ipynb)

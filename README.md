@@ -22,10 +22,11 @@
 - spin 1/2
 
   - https://arxiv.org/abs/2107.00872
+  - https://doi.org/10.1103/PhysRevB.101.235115 ( https://arxiv.org/abs/1912.11240 )
 
 - general spin
 
-  - https://arxiv.org/abs/0706.3293
+  - https://doi.org/10.1016/j.jcp.2008.01.027 ( https://arxiv.org/abs/0706.3293 )
 
 - Bose-Hubbard
 
